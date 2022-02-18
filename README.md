@@ -21,3 +21,4 @@ Cada proyecto publicado en el repositorio deberá contar con la siguiente inform
 - Dependencias
 - Infraestructura
 - Requisitos preliminares
+- Máquina virtual o contenedor
